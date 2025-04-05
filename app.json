@@ -16,7 +16,7 @@
     "ALIVE_IMG": {
       "description": "paste your image url if you don't have you can use this public url.",
       "required": true,
-      "value": "https://raw.githubusercontent.com/Mayelprince/url/main/url/1264.jpg"
+      "value": "https://i.imgur.com/gwJN7RD.jpeg"
     }, 
     
     "ALIVE_MSG": {
@@ -95,7 +95,7 @@
     "BOT_NAME": {
       "description": "write hear your name.",
       "required": true,
-      "value": "𝗣𝗥𝗜𝗡𝗖𝗘 𝗠𝗗𝗫"
+      "value": "DEVSPACE"
     }, 
 
     "HEART_REACT": {
